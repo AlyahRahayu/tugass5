@@ -1,0 +1,10 @@
+.banner {
+    background-image: url("par.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+  .crop-img {
+    object-fit: cover;
+  }
